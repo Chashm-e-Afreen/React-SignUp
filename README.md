@@ -2,4 +2,4 @@
 
 A modern signup form with ReactJS.
 
-![Screenshot]{https://github.com/Chashm-e-Afreen/React-SignUp/blob/main/screenshot.png}
+![Screenshot]{https://raw.githubusercontent.com/Chashm-e-Afreen/React-SignUp/main/screenshot.png}
