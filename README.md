@@ -1,2 +1,3 @@
 # React-SignUp
-Created with CodeSandbox
+
+A modern, simple signup form with ReactJS.
