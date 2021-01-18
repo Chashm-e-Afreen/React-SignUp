@@ -1,3 +1,3 @@
 # React-SignUp
 
-A modern, simple signup form with ReactJS.
+A modern signup form with ReactJS.
