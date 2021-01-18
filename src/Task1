@@ -1,0 +1,14 @@
+You are required to develop and validate a registration form 
+[using ReactJS] containing following elements;
+
+Full Name – At least 6 characters long
+Username – No spaces
+Email – Valid email
+Year of Birth – At least 15 years old
+Mobile Number– Contains only numbers
+Gender – Validate for selection
+Country – Validate for selection
+Register – button
+
+All the elements of the form will have meaningful placeholder 
+and if not validated show an error in front of the element.

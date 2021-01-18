@@ -1,0 +1,18 @@
+You are required to create an animation. 
+Develop this program using empty HTML page with no
+CSS properties used [No CSS files]. 
+
+You are only allowed to use JavaScript.
+
+There is a bar at top of the page with background color yellow 
+and text ‘Task 2’ is placed between the bar. The bar gets 
+transparent within some time and appears again in opaque
+condition through linear transition. There are random number
+of bubbles [3-10] with shadow that appear on the page in random 
+places (as shown in the picture [Task2samplepic.PNG]). The bubbles get bigger and 
+rate of increase in size is different for all of them and is 
+totally random. When a bubble reaches height and width equal 
+to 100px, it bursts and disappears. Once all bubbles on screen 
+have disappeared, the program creates new set of random bubbles 
+and so on. 
+
